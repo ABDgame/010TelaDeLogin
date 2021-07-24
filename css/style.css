@@ -20,7 +20,7 @@ body{
 .app{
    max-width: 700px; 
    margin: 0 auto;
-   /* padding:0; add 24 - 07 - 2021 */
+   justify-content:center; /* add 24 - 07 - 2021 */
    backdrop-filter:blur(6px);
    background: rgba(180,123,58,0.1);
    background: linear-gradient(10deg, rgba(180,123,58,0) 0%, rgba(155,85,16,0) 1%, rgba(219,132,10,0) 10%);
