@@ -18,6 +18,12 @@ body{
 } 
 
 .app{
+   position:absolute; /*add 30-07-2021*/
+   top: 0; /*add 30-07-2021*/
+   left: 0; /*add 30-07-2021*/
+   width:100%; /*add 30-07-2021*/
+   height: 100%; /*add 30-07-2021*/
+   object-fit: cover; /*add 30-07-2021*/
    max-width: 700px; 
    margin: 0 auto;
    justify-content:center; /* add 24 - 07 - 2021 */
