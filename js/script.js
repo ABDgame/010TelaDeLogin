@@ -7,7 +7,7 @@ const myApp=[
                msg:" ",
                path:"images/letraG",
                structure:[
-                           {question:"GA",options:['GULOSEIMAS.jpg','GOLFE.jpg','GIGANTE.jpg','GALINHA.jpg'],key:3},
+                           {question:"GU",options:['GULOSEIMAS.jpg','GOLFE.jpg','GIGANTE.jpg','GALINHA.jpg'],key:0},
 
                            {question:"GA",options:['GIRAFA.jpg','GATO.jpg','GELATINA.jpg' ,'GIRASSOL.jpg'],key:1},
 
@@ -41,7 +41,7 @@ const myApp=[
                    msg:" ",
                    path:"images/letraG",
                    structure:[
-                              {question:"GALINHA",options:['GAVETAS.jpg','GALINHA.jpg','GALO.jpg','GARRAFA.jpg'],key:1},
+                              {question:"GULOSEIMAS",options:['GAVETAS.jpg','GULOSEIMAS.jpg','GALO.jpg','GARRAFA.jpg'],key:1},
 
                               {question:"GATO",options:['GATO.jpg','GARRAFA.jpg','GAIOLA.jpg' ,'GALHO.jpg'],key:0},
 
