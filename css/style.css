@@ -2,10 +2,11 @@
 body{
       margin:0;
       padding:0;
+      position: relative;
       display:flex;
       justify-content:center;
       align-items: center;
-      min-height: 100vh;
+      height:100vh; /*era min-height: 100vh;*/
       background-image: url("background.png"); 
       background-repeat: no-repeat;
       background-size: cover;
@@ -137,7 +138,7 @@ body{
 /*BOTÕES DAS IMAGENS*/
 .app .option-box button{
      background: rgba(255, 255, 255, 0); 
-     position: absolute; /*Era relative*/
+     position: relative;
      top: 10px;
      left: 10px; 
      backdrop-filter: blur(20px);
