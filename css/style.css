@@ -58,7 +58,7 @@ body{
   
 }
 
-.app .quiz-box h4,
+/* .app .quiz-box h4, */
 .app .quiz-box h1{
   font-size: 10em; /*clamp(1.75em, 1em + 9vw, 2.5em);*/
   color:#FFFFFF;
