@@ -75,6 +75,9 @@ body{
   position: relative;
   margin: 0;
   padding: 0;
+
+  justify-content:center; /* 21-08-2021 */
+  align-items:flex-start; /* 21-08-2021 */
   
   /* margin: 0 0 30px; add 14-06-2021*/
   text-align: center; /*add 14-06-2021*/
