@@ -68,6 +68,8 @@ body{
   text-align: center;
   font-weight: bold;
   width:100%; /* add 21-08-2021*/
+  justify-content:center; /* 22-08-2021 */
+  align-items:flex-start; /* 22-08-2021 */
 }
 
 .app .quiz-box h1{
