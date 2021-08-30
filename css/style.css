@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Montserrat:400,500,700,800&display=swap');
 body{
-      margin:0;
+      margin:0;7
       padding:0;
       display:flex;
       justify-content:center;
@@ -169,14 +169,20 @@ body{
      border-radius:10px;
      overflow: hidden;
      cursor: pointer;
-     animation: button 1s ease;  
+     animation: button 1s ease; 
+    
+     box-shadow: 0px 35px 77px -17px rgba(0,0,0,0.64);
+     transition: scale(1.4);
+     z-index: 99;
+     
 }
-/*30-08-2021*/
+/*30-08-2021
 .app .option-box button:hover{
   box-shadow: 0px 35px 77px -17px rgba(0,0,0,0.64);
   transition: scale(1.4);
   z-index: 99;
-}
+} */
+
 @media screen and (max-width: 700px){ /* SUBTRAI 700 - 8 = 692*/
  
   .app {
