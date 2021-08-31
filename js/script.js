@@ -4,7 +4,7 @@ const container=document.querySelector(".app");
 const myApp=[
               { 
                type:" INICIAIS ",
-               msg:" ",
+               msg:" <h1>  </h1> ",
                path:"images/letraG",
                structure:[
                            {question:"GU",options:['GULOSEIMAS.jpg','GOLFE.jpg','GIGANTE.jpg','GALINHA.jpg'],key:0},
@@ -38,7 +38,7 @@ const myApp=[
 
               { 
                    type:" SÍLABAS ",
-                   msg:" ",
+                   msg:" <h1> </h1> ",
                    path:"images/letraG",
                    structure:[
                               {question:"GULOSEIMAS",options:['GAVETAS.jpg','GULOSEIMAS.jpg','GALO.jpg','GARRAFA.jpg'],key:1},
