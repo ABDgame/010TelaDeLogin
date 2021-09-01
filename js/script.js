@@ -69,6 +69,7 @@ const myApp=[
 
              }             
            ]
+
  // create select element
      const select=document.createElement("select");
            select.setAttribute("onchange","load(this)") 
