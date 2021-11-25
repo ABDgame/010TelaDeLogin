@@ -144,9 +144,9 @@ body{
 .app .option-box button{
      background: rgba(75, 241, 250, 0.3); 
      position: relative; 
-     top: 10px; /* Trocar por 50%*/
-     left: 10px; /* Trocar por 50%*/
-     transform: translate(-20%, -20%); /* adicionado 25-11-2021 */
+     top: 50%; /* Trocar por 50%*/
+     left: 50%; /* Trocar por 50%*/
+     transform: translate(-50%, -50%); /* adicionado 25-11-2021 */
      backdrop-filter: blur(20px);
      flex-basis: calc(100% - 20px); 
      max-width:  calc(100% - 20px); 
