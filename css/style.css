@@ -1,6 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Poppins:wght@500&display=swap&&effect=shadow-multiple');
-*
-{
+*{
   margin: 0;
   padding:0;
   box-sizing: border-box;
@@ -32,12 +31,7 @@ footer
   min-height:100px;
   padding: 20px 50px;
 }
-  *{
-     box-sizing: border-box;
-     margin:0;
-     padding:0;
-     outline:none; 
-} 
+
 
 .app{
    
