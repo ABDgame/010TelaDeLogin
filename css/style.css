@@ -10,7 +10,7 @@ body{
       padding:0;
       display:flex;
       justify-content:center;
-      align-items: flex-end;
+      align-items: center;
       min-height: 100vh;
       height: 100%;
       background-image: url("background.png"); 
