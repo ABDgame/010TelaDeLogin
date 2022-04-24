@@ -149,7 +149,7 @@ const myApp=[
                       }
                       this.appendChild(span);
 
-                      
+                     //tentar embaralhar as questões por aqui 
                      for (let j=0; j<that.optionEle.children.length; j++) {
                          
                           if(this.id==that.optionEle.children[j].id) {
